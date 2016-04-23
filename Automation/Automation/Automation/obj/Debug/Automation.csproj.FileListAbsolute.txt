@@ -1,0 +1,12 @@
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\Automation.exe.config
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\chromedriver.exe
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\chromedriver-license.txt
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\Automation.exe
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\Automation.pdb
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\WebDriver.dll
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\WebDriver.xml
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\obj\Debug\Automation.csprojResolveAssemblyReference.cache
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\obj\Debug\Automation.exe
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\obj\Debug\Automation.pdb
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\nunit.framework.dll
+c:\users\ncek\documents\visual studio 2015\Projects\Automation\Automation\bin\Debug\nunit.framework.xml
